@@ -1,5 +1,6 @@
 **This is an archive of a previously completed university project**
 
+
 # ECS 153 Final Project: The Vault
 A desktop password manager that stores passwords safely.
 
